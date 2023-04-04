@@ -7,4 +7,4 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 # Прочее
 
-*[Тестовая зона](https://github.com/costaM705/sf_data_science/tree/main/test)
+* [Тестовая зона](https://github.com/costaM705/sf_data_science/tree/main/test)
