@@ -1,13 +1,13 @@
 # Проект 1. Визуализация данных
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Описание_проекта)  
-[2. Какой кейс решаем?](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Какой_кейс_решаем?)
-[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Задание)
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Краткая_информация_о_данных)  
-[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Этапы_работы_над_проектом)  
-[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Результат)  
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Выводы)  
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Описание_проекта)<br/>  
+[2. Какой кейс решаем?](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Какой_кейс_решаем?)<br/>
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Задание)<br/>
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Краткая_информация_о_данных)<br/>  
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Этапы_работы_над_проектом)<br/>  
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Результат)<br/>  
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Выводы)<br/>  
 
 
 ### Описание_проекта
