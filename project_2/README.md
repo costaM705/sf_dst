@@ -1,4 +1,4 @@
-# Проект 1. Визуализация данных
+# Проект 2. Анализ резюме из HeadHunter
 
 ## Оглавление
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание_проекта)<br/>
