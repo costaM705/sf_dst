@@ -1,4 +1,4 @@
-# Проект 0. Угадай число
+# Проект 1. Визуализация данных
 
 ## Оглавление
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Описание_проекта)  
