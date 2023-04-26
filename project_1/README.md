@@ -56,5 +56,5 @@
 Неплохой результат :)
 
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)
 
