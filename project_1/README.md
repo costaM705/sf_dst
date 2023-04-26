@@ -2,11 +2,12 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Описание_проекта)  
-[2. Какой кейс решаем?](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Какой_кейс_решаем?)  
-[3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Краткая_информация_о_данных)  
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Этапы_работы_над_проектом)  
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Результат)  
-[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Выводы)  
+[2. Какой кейс решаем?](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Какой_кейс_решаем?)
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Задание)
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Краткая_информация_о_данных)  
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Этапы_работы_над_проектом)  
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Результат)  
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0/README.md#Выводы)  
 
 
 ### Описание_проекта
@@ -15,7 +16,7 @@
 ### Какой_кейс_решаем?
 Визуализация данных об оттоке клиентов банка.
 
-**Задание**
+### Задание
 9.1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.
 9.2. Постройте график, показывающий распределение баланса пользователей, у которых на счету больше 2 500 долларов. Опишите распределение и сделайте выводы.
 9.3. Посмотрите на распределение баланса клиента в разрезе признака оттока. Как различаются суммы на накопительном счёте ушедших и лояльных клиентов? Подумайте и напишите, с чем это может быть связано, что может не устраивать ушедших клиентов в банке.
