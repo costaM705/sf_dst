@@ -1,21 +1,21 @@
 # Проект 2. Анализ резюме из HeadHunter</center> 
 
-## Содержание
+## Оглавление
 
-[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#1. Введение)   
-[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#2. Описание_задачи)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#3. Описание_данных)         
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#4. Результат)          
-[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#5. Выводы)       
+[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Введение)   
+[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_задачи)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)         
+[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
+[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
 
 
-## 1. Введение
+## Введение
 
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта.     
  :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
 
-## 2. Описание_задачи
+## Описание_задачи
 
 Проект состоит из четырёх частей:
 1 базовый анализ структуры данных
@@ -38,7 +38,7 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
 
-## 3. Описание_данных
+## Описание_данных
 
 В проекте используется база резюме, выгруженная с сайта поиска вакансий hh.ru.        
 Датасет содержит 44744 обезличенные записи по 12 признакам:                     
@@ -59,14 +59,14 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
 
 
-## 4. Результат
+## Результат
 
 Ноутбук с решением: [Project_1.ipynb](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/Project_1.ipynb).      
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/requirements.txt).                
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
 
 
-## 5. Выводы
+## Выводы
 
 В данном проекте была проведена работа по исследованию и очистке данных на примере датасета, содержащего резюме соискателей с сайта поиска вакансий hh.ru.
 Было проведено преобразование данных путем формирования новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей в данных с использованием визуализации (бибилиотеки matplotlib и seaborn). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.                       
