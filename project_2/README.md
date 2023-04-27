@@ -61,7 +61,7 @@
 
 ## Результат
 
-Ноутбук с решением: [Project_2_Анализ_резюме_из_HeadHunter.ipynb](https://https://github.com/costaM705/sf_data_science/blob/main/project_2/Project_2_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter.ipynb).      
+Ноутбук с решением: [Project_2_CV_analysis_from_HeadHunter.ipynb](https://github.com/costaM705/sf_data_science/blob/main/project_2/Project_2_CV_analysis_from_HeadHunter.ipynb).      
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_2/requirements.txt).                
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
 
