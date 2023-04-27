@@ -12,7 +12,7 @@
 ## 1. Введение
 
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта!     
- :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+ :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
 
 ## 2. Описание_задачи
@@ -35,7 +35,7 @@
 * Графики оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 * Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 * Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.        
-:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
 
 ## 3. Описание_данных
@@ -56,20 +56,20 @@
 Авто - наличие у соискателя автомобиля.             
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)     
 Файл ExchangeRates.zip содержит сведенья о курсах валют.           
-:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
 
 
 ## 4. Результат
 
 Ноутбук с решением: [Project_1.ipynb](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/Project_1.ipynb).      
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/requirements.txt).                
-:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)         
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
 
 
 ## 5. Выводы
 
-В данном проекте была проведена работа по исследованию и очистке данных на примере датасета содержащего резюме соискателей с сайта поиска вакансий hh.ru.
-Было проведено преобразование данных путем формирования новых новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей в данных с использованием визуализации (бибилиотеки matplotlib, seaborn и plotly). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.      
+В данном проекте была проведена работа по исследованию и очистке данных на примере датасета, содержащего резюме соискателей с сайта поиска вакансий hh.ru.
+Было проведено преобразование данных путем формирования новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей в данных с использованием визуализации (бибилиотеки matplotlib и seaborn). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.      
 Почта для обратной связи: vasilevdma82@gmail.com                 
-:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)   
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)   
 
