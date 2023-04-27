@@ -15,7 +15,7 @@
  :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
-## 2. Описание задачи
+## 2. Описание_задачи
 
 Проект состоит из четырёх частей:
 1 базовый анализ структуры данных
@@ -38,7 +38,7 @@
 :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
-## 3. Описание данных
+## 3. Описание_данных
 
 В проекте используется база резюме, выгруженная с сайта поиска вакансий hh.ru.        
 Датасет содержит 44744 обезличенные записи по 12 признакам:                     
