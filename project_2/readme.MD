@@ -2,11 +2,11 @@
 
 ## Содержание
 
-[1. Введение](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)   
-[2. Описание задачи](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)         
-[4. Результат](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)          
-[5. Выводы](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)       
+[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)   
+[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание задачи)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание данных)         
+[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)          
+[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводв)       
 
 
 ## 1. Введение
