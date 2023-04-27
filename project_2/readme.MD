@@ -2,11 +2,11 @@
 
 ## Оглавление
 
-[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Введение)   
-[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_задачи)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)         
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
-[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
+[Введение](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Введение)   
+[Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_задачи)   
+[Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)         
+[Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
+[Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
 
 
 ## Введение
