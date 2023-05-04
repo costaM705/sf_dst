@@ -2,17 +2,18 @@
 
 ## Оглавление
 
-[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Введение)   
-[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_задачи)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)         
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
-[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
+[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)   
+[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание_задачи)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание_данных)         
+[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)          
+[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводы)       
 
 
 ## Введение
 
- Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта.     
- :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
+ Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта.
+
+ :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)      
 
 
 ## Описание_задачи
@@ -36,8 +37,9 @@
 * Пользуйтесь руководством PEP 8.
 * Графики оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 * Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
-* Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.        
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
+* Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
+
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)      
 
 
 ## Описание_данных
@@ -57,21 +59,24 @@
 Обновление резюме - дата и время последнего обновления резюме соискателем;             
 Авто - наличие у соискателя автомобиля.             
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)     
-Файл ExchangeRates.zip содержит сведения о курсах валют.           
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
+Файл ExchangeRates.zip содержит сведения о курсах валют.
+
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)        
 
 
 ## Результат
 
-Ноутбук с решением: [Project_2_CV_analysis_from_HeadHunter.ipynb](https://github.com/costaM705/sf_data_science/blob/main/project_2/Project_2_CV_analysis_from_HeadHunter.ipynb).      
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_2/requirements.txt).                
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
+Ноутбук с решением: [Project_2_CV_analysis_from_HeadHunter.ipynb](https://github.com/costaM705/sf_data_science/blob/main/project_1/project_1_CV_analysis_from_HeadHunter.ipynb).      
+Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_1/requirements.txt).
+
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)         
 
 
 ## Выводы
 
 В данном проекте была проведена работа по исследованию и очистке данных на примере датасета, содержащего резюме соискателей с сайта поиска вакансий hh.ru.
-Было проведено преобразование данных путем формирования новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей данных с использованием визуализации (библиотеки matplotlib и seaborn). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.                       
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)   
+Было проведено преобразование данных путем формирования новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей данных с использованием визуализации (библиотеки matplotlib и seaborn). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.
+
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)   
 
 
