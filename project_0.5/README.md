@@ -1,13 +1,13 @@
-# Проект 0_5. Визуализация данных
+# Проект 0.5. Визуализация данных
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание_проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Какой_кейс_решаем)<br/>
-[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Задание)<br/>
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Краткая_информация_о_данных)<br/>
-[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Этапы_работы_над_проектом)<br/>
-[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)<br/>
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводы)<br/>
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Описание_проекта)<br/>
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Какой_кейс_решаем)<br/>
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Задание)<br/>
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Краткая_информация_о_данных)<br/>
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Этапы_работы_над_проектом)<br/>
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Результат)<br/>
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Выводы)<br/>
 
 
 ### Описание_проекта
@@ -56,5 +56,5 @@
 Неплохой результат :)
 
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
 
