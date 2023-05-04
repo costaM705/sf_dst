@@ -1,24 +1,24 @@
 # Проект 0.5. Визуализация данных
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Описание_проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Какой_кейс_решаем)<br/>
-[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Задание)<br/>
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Краткая_информация_о_данных)<br/>
-[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Этапы_работы_над_проектом)<br/>
-[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Результат)<br/>
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Выводы)<br/>
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Описание_проекта)<br/>
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Какой_кейс_решаем)<br/>
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Задание)<br/>
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Краткая_информация_о_данных)<br/>
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Этапы_работы_над_проектом)<br/>
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Результат)<br/>
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Выводы)<br/>
 
 
 ### Описание_проекта
 Построить 10 графиков согласно приложенному заданию.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Какой_кейс_решаем
 Визуализация данных об оттоке клиентов банка.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Задание
 9.1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.<br/>
@@ -32,7 +32,7 @@
 9.9. В какой стране доля ушедших клиентов больше? Постройте тепловую картограмму, которая покажет это соотношение на карте мира. Предположите, с чем это может быть связано.<br/>
 9.10. Переведите числовой признак CreditScore в категориальный. Для этого воспользуйтесь функцией get_credit_score_cat(), которая приведена ниже. Примените её к столбцу CreditScore и создайте новый признак CreditScoreCat — категории кредитного рейтинга.<br/>
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 **Метрика качества**  
 Максимальное количество баллов за одно задание — 1.<br/>
@@ -40,32 +40,32 @@
 <br/>
 Итого <b>максимально можно получить 10 баллов</b>.<br/>
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 **Что практикуем**  
 Учимся писать хороший код на Python.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Краткая_информация_о_данных
 Представлены данные об оттоке клиентов некоторого банка.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Этапы_работы_над_проектом
 В процессе работы использованы библиотеки Matplotlib, Seaborn и Plotly.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Результат
 1. Построены графики к 10 задачам.
 2. Комментарии расставлены.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ### Выводы
 Результат достигнут.<br/>
 Неплохой результат :)
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.5/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
