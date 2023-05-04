@@ -4,9 +4,10 @@
 
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_проекта)   
 [2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой_кейс_решаем)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)         
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
-[5. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы_работы_над_проектом)          
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
+[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
 
 
 ## Описание_проекта
