@@ -1,5 +1,5 @@
 # Мои проекты Data Science
-From the [Skillfactory Data Science course](https://skillfactory.ru/data-scientist)
+С курса [Skillfactory Data Science](https://skillfactory.ru/data-scientist)
 
 # Проекты
 
