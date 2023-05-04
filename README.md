@@ -9,6 +9,8 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/data-scienti
 
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/costaM705/sf_data_science/tree/main/project_1)
 
+* [Проект 2. Анализ вакансий из HeadHunter](https://github.com/costaM705/sf_data_science/tree/main/project_2)
+
 # Прочее
 
 * [Тестовая зона](https://github.com/costaM705/sf_data_science/tree/main/test)
