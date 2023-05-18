@@ -69,7 +69,7 @@
 
 ## Результат
 
-Ноутбук с решением: [project_2](https://github.com/costaM705/sf_data_science/blob/main/project_2/project_2_vacancies_analysis_from_HeadHunter.ipynb).      
+Ноутбук с решением: [project_2](https://github.com/costaM705/sf_data_science/blob/main/project_2/project_2.ipynb).      
 Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_2/requirements.txt).
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         

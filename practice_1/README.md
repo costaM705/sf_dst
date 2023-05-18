@@ -46,7 +46,7 @@
 
 ## Результат
 * Написанная программа угадывает число за 5 шагов или меньше.</br>
-* Ноутбук с решением: [practice_1](https://github.com/costaM705/sf_data_science/blob/main/practice_1/game.ipynb).      
+* Ноутбук с решением: [practice_1](https://github.com/costaM705/sf_data_science/blob/main/practice_1/practice_1.ipynb).      
 * Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/practice_1/requirements.txt).
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Оглавление)
