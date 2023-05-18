@@ -17,7 +17,10 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
 
 ## Какой кейс решаем
-Визуализация данных об оттоке клиентов банка.
+Используя навыка написания кода на Python провести:</br>
+1. Анализ на тип распределения данных.
+2. Анализ на корреляции данных.
+3. Сравнительные тесты.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
 
