@@ -54,6 +54,7 @@
 * Основной интерпретатор — Python 3.10.
 * Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt).
 * Установка недостающих компонент:
+
         pip install -r requirements.txt
 
 ## Выводы
