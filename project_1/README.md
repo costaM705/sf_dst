@@ -4,20 +4,18 @@
 
 ## Оглавление
 
-[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)   
-[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-задачи)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-данных)         
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)          
-[5. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Требования-для-работы) 
+[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)</br>
+[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-задачи)</br>
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-данных)</br>
+[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)</br>
+[5. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Требования-для-работы)</br>
 [6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводы)       
-
 
 ## Введение
 
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта.
 
  :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)      
-
 
 ## Описание задачи
 
@@ -80,7 +78,6 @@
         pip install -r requirements.txt
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)         
-
 
 ## Выводы
 
