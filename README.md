@@ -1,6 +1,6 @@
 # Data Science
 
-![SkillFactory](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png)
+![SkillFactory](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png?raw=true)
 
 <table>
   <tr style = "vertical-align:middle">
