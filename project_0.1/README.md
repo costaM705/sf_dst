@@ -1,6 +1,6 @@
 # Проект 0.1. Угадай число
 
-![SkillFactory](./images/sf_logo.png)
+![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Описание-проекта)  
@@ -12,12 +12,12 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Описание проекта
+### 1. Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Какой кейс решаем
+### 2. Какой кейс решаем
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
@@ -39,24 +39,24 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Краткая информация о данных
+### 3. Краткая информация о данных
 Используется генератор случайных чисел из библиотеки Numpy
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Этапы работы над проектом
+### 4. Этапы работы над проектом
 1. Пробовал инкремент и декремент с разными шагами.
 2. Пробовал алгоритм сужения диапазона.
 3. Алгоритм сужения диапазона показал неплохие результаты.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Результат
+### 5. Результат
 Написанная программа угадывает число за 5 шагов или меньше.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
-### Выводы
+### 6. Выводы
 Результат достигнут.<br/>
 Неплохой результат :)
 
