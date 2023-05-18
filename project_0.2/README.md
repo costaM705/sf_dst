@@ -1,26 +1,27 @@
 # Проект 0.2. Визуализация данных
 
+![SkillFactory](../images/sf_logo.png)
+
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Описание_проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Какой_кейс_решаем)<br/>
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Описание-проекта)<br/>
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Какой-кейс-решаем)<br/>
 [3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Задание)<br/>
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Краткая_информация_о_данных)<br/>
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Краткая-информация-о-данных)<br/>
 [5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Этапы_работы_над_проектом)<br/>
 [6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Результат)<br/>
 [7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Выводы)<br/>
 
-
-### Описание_проекта
+## Описание проекта
 Построить 10 графиков согласно приложенному заданию.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Какой_кейс_решаем
+## Какой кейс решаем
 Визуализация данных об оттоке клиентов банка.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Задание
+## Задание
 9.1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.<br/>
 9.2. Постройте график, показывающий распределение баланса пользователей, у которых на счету больше 2 500 долларов. Опишите распределение и сделайте выводы.<br/>
 9.3. Посмотрите на распределение баланса клиента в разрезе признака оттока. Как различаются суммы на накопительном счёте ушедших и лояльных клиентов? Подумайте и напишите, с чем это может быть связано, что может не устраивать ушедших клиентов в банке.<br/>
@@ -47,23 +48,23 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Краткая_информация_о_данных
+## Краткая информация о данных
 Представлены данные об оттоке клиентов некоторого банка.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Этапы_работы_над_проектом
+## Этапы работы над проектом
 В процессе работы использованы библиотеки Matplotlib, Seaborn и Plotly.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Результат
+## Результат
 1. Построены графики к 10 задачам.
 2. Комментарии расставлены.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
-### Выводы
+## Выводы
 Результат достигнут.<br/>
 Неплохой результат :)
 
