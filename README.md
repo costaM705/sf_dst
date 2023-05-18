@@ -1,16 +1,16 @@
-# Мои проекты Data Science
-С курса [SkillFactory Data Scientist](https://skillfactory.ru/data-scientist)
+# Data Science
 
-# Проекты
+<img style = 'verticat-align:middle' img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png>>
 
-* [Проект 0.1. Игра: Угадай число](https://github.com/costaM705/sf_data_science/tree/main/project_0.1)
+Курс обучения [SkillFactory Data Scientist](https://skillfactory.ru/data-scientist)
 
-* [Проект 0.2. Визуализация данных об оттоке клиентов банка](https://github.com/costaM705/sf_data_science/tree/main/project_0.2)
+## Проекты
 
 * [Проект 1. Анализ резюме из HeadHunter](https://github.com/costaM705/sf_data_science/tree/main/project_1)
-
 * [Проект 2. Анализ вакансий из HeadHunter](https://github.com/costaM705/sf_data_science/tree/main/project_2)
 
-# Прочее
+## Практические работы
 
-* [Тестовая зона](https://github.com/costaM705/sf_data_science/tree/main/test)
+* [Проект 0.1. Игра: Угадай число](https://github.com/costaM705/sf_data_science/tree/main/project_0.1)
+* [Проект 0.2. Визуализация данных об оттоке клиентов банка](https://github.com/costaM705/sf_data_science/tree/main/project_0.2)
+
