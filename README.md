@@ -1,5 +1,7 @@
 # Data Science
 
+![SkillFactory](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png)
+
 <table>
   <tr style = "vertical-align:middle">
     <th><img style = "vertical-align:middle" img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png></th>
