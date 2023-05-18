@@ -60,7 +60,7 @@
 * Авто — наличие у соискателя автомобиля.             
 
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)     
-Файл ExchangeRates.zip содержит сведения о курсах валют.
+Файл [ExchangeRates.zip](https://github.com/costaM705/sf_data_science/tree/main/project_1/data/ExchangeRates.zip) содержит сведения о курсах валют.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)        
 
