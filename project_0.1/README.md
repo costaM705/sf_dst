@@ -58,6 +58,8 @@
 
         pip install -r requirements.txt
 
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
+
 ## Выводы
 Результат достигнут.<br/>
 Неплохой результат :)
