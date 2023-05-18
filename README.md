@@ -11,6 +11,6 @@
 
 ## Практические работы
 
-* [Практика 1. Игра: Угадай число](https://github.com/costaM705/sf_data_science/tree/main/practice_._1)
+* [Практика 1. Игра: Угадай число](https://github.com/costaM705/sf_data_science/tree/main/practice_1)
 * [Практика 2. Визуализация данных об оттоке клиентов банка](https://github.com/costaM705/sf_data_science/tree/main/practice_2)
 
