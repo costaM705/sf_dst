@@ -2,6 +2,8 @@
 
 ![Иллюстрация к проекту](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png)
 
+<img src="images/sf_logo.png" width="200" height="50"/>
+
 ![SkillFactory](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png?raw=true)
 ![SF](https://drive.google.com/file/d/1tPuMUrSFKWtzX5ElCiixGIUBgu3AGqO6/view?usp=sharing)
 
