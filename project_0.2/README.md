@@ -9,7 +9,8 @@
 [4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Краткая-информация-о-данных)<br/>
 [5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Этапы_работы_над_проектом)<br/>
 [6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Результат)<br/>
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Выводы)<br/>
+[7. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Требования-для-работы) 
+[8. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Выводы)<br/>
 
 ## Описание проекта
 Построить 10 графиков согласно приложенному заданию.
@@ -55,10 +56,19 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
 
 ## Результат
-1. Построены графики к 10 задачам.
-2. Комментарии расставлены.
+* Построены графики к 10 задачам.
+* Комментарии расставлены.
+* Ноутбук с решением: [Project_0.2](https://github.com/costaM705/sf_data_science/blob/main/project_0.2/data_visualization.ipynb).      
+* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/requirements.txt).
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+
+## Требования для работы
+* Основной интерпретатор — Python 3.10.
+* Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt).
+* Установка недостающих компонент:
+
+        pip install -r requirements.txt
 
 ## Выводы
 Результат достигнут.<br/>

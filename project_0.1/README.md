@@ -7,8 +7,9 @@
 [2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Результат)  
-[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Выводы)  
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Результат)
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Требования-для-работы) 
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Выводы)  
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
@@ -46,7 +47,7 @@
 ## Результат
 * Написанная программа угадывает число за 5 шагов или меньше.</br>
 * Ноутбук с решением: [Project_0.1](https://github.com/costaM705/sf_data_science/blob/main/project_0.1/game.ipynb).      
-* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_1/requirements.txt).
+* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/requirements.txt).
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
