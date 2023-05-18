@@ -2,7 +2,7 @@
 
 <table>
   <tr style = "vertical-align:middle">
-    <!-- <th><img style = "vertical-align:middle" img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png></th>
+    <th><img style = "vertical-align:middle" img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png></th>
   </tr>
 </table>
 
