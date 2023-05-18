@@ -2,7 +2,7 @@
 
 ![SkillFactory](./images/sf_logo.png)
 
-Курс обучения [SkillFactory Data Scientist](https://skillfactory.ru/data-scientist)
+Курс обучения: [SkillFactory Data Scientist](https://skillfactory.ru/data-scientist)
 
 ## Проекты
 
