@@ -1,6 +1,6 @@
 # Data Science
 
-<img style = 'verticat-align:middle' img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png>>
+<img style = "verticat-align:middle" img src = https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png>
 
 Курс обучения [SkillFactory Data Scientist](https://skillfactory.ru/data-scientist)
 
