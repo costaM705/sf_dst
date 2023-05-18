@@ -3,24 +3,24 @@
 ![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Описание-проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Какой-кейс-решаем)<br/>
-[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Задание)<br/>
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Краткая-информация-о-данных)<br/>
-[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Этапы_работы_над_проектом)<br/>
-[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Результат)<br/>
-[7. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Требования-для-работы) 
-[8. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Выводы)<br/>
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Описание-проекта)<br/>
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Какой-кейс-решаем)<br/>
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Задание)<br/>
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Краткая-информация-о-данных)<br/>
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Этапы_работы_над_проектом)<br/>
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Результат)<br/>
+[7. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Требования-для-работы) 
+[8. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Выводы)<br/>
 
 ## Описание проекта
 Построить 10 графиков согласно приложенному заданию.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Какой кейс решаем
 Визуализация данных об оттоке клиентов банка.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Задание
 9.1. Каково соотношение ушедших и лояльных клиентов? Покажите это на графике и дайте комментарий по соотношению.<br/>
@@ -43,25 +43,25 @@
 **Что практикуем**  
 Учимся писать хороший код на Python.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Краткая информация о данных
 Представлены данные об оттоке клиентов некоторого банка.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Этапы работы над проектом
 В процессе работы использованы библиотеки Matplotlib, Seaborn и Plotly.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Результат
 * Построены графики к 10 задачам.
 * Комментарии расставлены.
-* Ноутбук с решением: [project_0.2](https://github.com/costaM705/sf_data_science/blob/main/project_0.2/data_visualization.ipynb).      
-* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/requirements.txt).
+* Ноутбук с решением: [practice_2](https://github.com/costaM705/sf_data_science/blob/main/practice_2/data_visualization.ipynb).      
+* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/practice_2/requirements.txt).
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Требования для работы
 * Основной интерпретатор — Python 3.10.
@@ -70,11 +70,11 @@
 
         pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
 ## Выводы
 Результат достигнут.<br/>
 Неплохой результат :)
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.2/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Оглавление)
 
