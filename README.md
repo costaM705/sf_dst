@@ -1,6 +1,6 @@
 # Data Science
 
-![Иллюстрация к проекту](https://github.com/costaM705/sf_data_science/tree/main/images/sf_logo.png)
+![Иллюстрация к проекту](images/sf_logo.png)
 
 <img src="images/sf_logo.png" width="200" height="50"/>
 
