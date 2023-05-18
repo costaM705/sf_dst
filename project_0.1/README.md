@@ -10,8 +10,6 @@
 [5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Результат)  
 [6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Выводы)  
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
-
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
 
@@ -20,24 +18,16 @@
 ### Какой кейс решаем
 Нужно написать программу, которая угадывает число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
-
 **Условия соревнования**
 - Компьютер загадывает целое число от 0 до 100, и нам его нужно угадать. Под "угадать" подразумевается "написать программу, которая угадывает число".
 - Алгоритм учитывает информацию о том, больше ли случайное число или меньше нужного нам.
 - Необходимо потратить не более 20 попыток чтобы угадать число.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
-
 **Метрика качества**  
 Результаты оцениваются по среднему количеству попыток при 1000 повторений.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
-
 **Что практикуем**  
 Учимся писать хороший код на Python.
-
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_0.1/README.md#Оглавление)
 
 ### Краткая информация о данных
 Используется генератор случайных чисел из библиотеки Numpy
