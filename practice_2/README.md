@@ -3,14 +3,14 @@
 ![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Описание-проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Какой-кейс-решаем)<br/>
-[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Задание)<br/>
-[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Краткая-информация-о-данных)<br/>
-[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Этапы_работы_над_проектом)<br/>
-[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Результат)<br/>
-[7. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Требования-для-работы) 
-[8. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Выводы)<br/>
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Описание-проекта)   
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Какой-кейс-решаем)   
+[3. Задание](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Задание)   
+[4. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Краткая-информация-о-данных)   
+[5. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Этапы_работы_над_проектом)   
+[6. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Результат)   
+[7. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Требования-для-работы)   
+[8. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_2/README.md#Выводы)   
 
 ## Описание проекта
 Построить 10 графиков согласно приложенному заданию.

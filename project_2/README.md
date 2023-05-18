@@ -4,13 +4,13 @@
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-проекта)</br>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)</br>
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-данных)</br>
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)</br>
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)</br>
-[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Требования-для-работы)</br>      
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-проекта)   
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-данных)   
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)   
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)   
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Требования-для-работы)         
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)   
 
 ## Описание проекта
 
@@ -21,11 +21,11 @@
 
 ## Какой кейс решаем
 
-1. Знакомство с данными<br/>
-2. Предварительный анализ данных<br/>
-3. Детальный анализ вакансий<br/>
-4. Анализ работодателей<br/>
-5. Предметный анализ<br/>
+1. Знакомство с данными   
+2. Предварительный анализ данных   
+3. Детальный анализ вакансий   
+4. Анализ работодателей   
+5. Предметный анализ   
 
 Условия задания:
 * Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupiter-ноутбуке.

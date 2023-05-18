@@ -4,12 +4,12 @@
 
 ## Оглавление
 
-[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)</br>
-[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-задачи)</br>
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-данных)</br>
-[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)</br>
-[5. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Требования-для-работы)</br>
-[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводы)       
+[1. Введение](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Введение)   
+[2. Описание задачи](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-задачи)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Описание-данных)   
+[4. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Результат)   
+[5. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Требования-для-работы)   
+[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Выводы)   
 
 ## Введение
 
@@ -19,12 +19,12 @@
 
 ## Описание задачи
 
-Проект состоит из четырёх частей:<br/>
+Проект состоит из четырёх частей:   
 
-1. Базовый анализ структуры данных.<br/>
-2. Преобразование данных.<br/>
-3. Разведывательный анализ.<br/>
-4. Очистка данных.<br/>
+1. Базовый анализ структуры данных.   
+2. Преобразование данных.   
+3. Разведывательный анализ.   
+4. Очистка данных.   
 
 Каждая часть состоит из блока практических заданий, которые необходимо выполнить в jupyter-ноутбуке.<br/>     
 

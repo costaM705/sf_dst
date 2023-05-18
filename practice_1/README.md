@@ -3,13 +3,13 @@
 ![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Описание-проекта)<br/>
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Какой-кейс-решаем)<br/>
-[3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Краткая-информация-о-данных)<br/>
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Этапы-работы-над-проектом)<br/>
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Результат)<br/>
-[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Требования-для-работы)<br/> 
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Выводы)<br/>  
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Описание-проекта)   
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Какой-кейс-решаем)   
+[3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Этапы-работы-над-проектом)   
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Результат)   
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Требования-для-работы)   
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_1/README.md#Выводы)     
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное количество попыток.
