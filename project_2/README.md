@@ -1,23 +1,25 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
+![SkillFactory](../images/sf_logo.png)
+
 ## Оглавление
 
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_проекта)   
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой_кейс_решаем)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание_данных)  
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы_работы_над_проектом)          
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)          
-[6. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-проекта)</br>
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)</br>
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-данных)</br>
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)</br>
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)</br>
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Требования-для-работы)</br>      
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)       
 
-
-## Описание_проекта
+## Описание проекта
 
 Провести анализ данных и понять, что из себя представляют данные и насколько они соответствуют целям проекта для создания модели машинного обучения по подбору вакансий для IT-специалистов.
 
  :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
 
-## Какой_кейс_решаем
+## Какой кейс решаем
 
 1. Знакомство с данными<br/>
 2. Предварительный анализ данных<br/>
@@ -44,8 +46,7 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
 
-
-## Описание_данных
+## Описание данных
 
 * Таблица VACANCIES хранит данные по вакансиям.
 * Таблица AREAS является справочником, в котором хранятся коды городов и их названия.
@@ -56,7 +57,7 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
 
 
-## Этапы_работы_над_проектом
+## Этапы работы над проектом
 
 * Исследование структуры данных.
 * Преобразование данных.
@@ -66,7 +67,6 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
 
-
 ## Результат
 
 Ноутбук с решением: [Project_2_vacancies_analysis_from_HeadHunter.ipynb](https://github.com/costaM705/sf_data_science/blob/main/project_2/project_2_vacancies_analysis_from_HeadHunter.ipynb).      
@@ -74,6 +74,15 @@
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
 
+## Требования для работы
+
+* Основной интерпретатор — Python 3.10.
+* Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt).
+* Установка недостающих компонент:
+
+        pip install -r requirements.txt
+
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
 
 ## Выводы
 

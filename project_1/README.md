@@ -72,6 +72,7 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_1/README.md#Оглавление)         
 
 ## Требования для работы
+
 * Основной интерпретатор — Python 3.10.
 * Дополнительные требования перечислены в requirements.txt (получены командой pip freeze > requirements.txt).
 * Установка недостающих компонент:
