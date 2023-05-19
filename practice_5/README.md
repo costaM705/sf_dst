@@ -92,7 +92,7 @@
   * Comet.ML API & SDK:
 
         https://www.comet.com/docs/v2/guides/tracking-ml-training/configuring-comet/   
-
+</br>
         https://www.comet.com/docs/v2/api-and-sdk/python-sdk/advanced/configuration/#configuration-variables   
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_5/README.md#Оглавление)
