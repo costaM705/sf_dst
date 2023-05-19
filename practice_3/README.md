@@ -31,6 +31,13 @@
 
 ### Метрика качества: ###
 * Результаты оцениваются согласно требованиям, указанным к проекту:   
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
+
 | Количество баллов | Критерии оценивания | 
 |---|---| 
 | 5 баллов | Данные объединены в DataFrame | 
