@@ -86,9 +86,9 @@
 
 * В проекте используется:   
 
-** Kaggle API:
+        * Kaggle API:
 
-        https://github.com/Kaggle/kaggle-api
+                https://github.com/Kaggle/kaggle-api
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_5/README.md#Оглавление)
 
