@@ -3,24 +3,24 @@
 ![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Описание-проекта)   
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Какой-кейс-решаем)   
-[3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Этапы-работы-над-проектом)   
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Результат)   
-[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Требования-для-работы)   
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Выводы)   
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Описание-проекта)   
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Какой-кейс-решаем)   
+[3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Краткая-информация-о-данных)   
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Этапы-работы-над-проектом)   
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Результат)   
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Требования-для-работы)   
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Выводы)   
 
 ## Описание проекта
-Используя информацию по мидиям Петербурга и Магадана, которые представлены в виде двух массивов *petersburg* и *magadan*, проверьте данные на нормальность и на наличие взаимосвязи.
+Представьте, что вас срочно вызвали на новый проект, так что теперь вы — дата-сайентист в туристической фирме. Компания планирует запустить новую акцию, чтобы продать как можно больше туров. Команда разработала два варианта посадочной страницы официального сайта компании и провела A/B-тестирование. В результате проведения эксперимента собраны данные.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Какой кейс решаем
-Используя навыки написания кода на Python провести:</br>
-1. Анализ на тип распределения данных.
-2. Анализ на корреляции данных.
-3. Сравнительные тесты.
+Проанализировать эффективность обоих вариантов посадочной страницы сразу по двум критериям:   
+1. Конверсии покупки;   
+2. Средний чек.   
+На основе проведённого анализа необходимо сделать выводы и принять решение: какой из вариантов дизайна более предпочтительный.   
 
 ### Условия: ###
 * Решение оформляется только в *Jupiter Notebook*.
@@ -52,14 +52,14 @@
 * Повышаем квалификацию по методам преобразования и очистки данных;
 * Повышаем квалификацию с GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Краткая информация о данных
 Представлены данные в виде двух списков:   
 1. 7 значений размеров раковин из региона Санкт-Петербург;
 2. 8 значений размеров раковин из региона Магадан.  
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Этапы работы над проектом
 * Ознакомление с описанием задачи;
@@ -74,13 +74,13 @@
 * Оформление проекта;
 * Загрузка проекта на GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Результат
-* Ноутбук с решением: [practice_3](https://github.com/costaM705/sf_data_science/blob/main/practice_3/practice_3.ipynb).      
-* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/practice_3/requirements.txt).
+* Ноутбук с решением: [practice_4](https://github.com/costaM705/sf_data_science/blob/main/practice_4/practice_4.ipynb).      
+* Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/practice_4/requirements.txt).
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Требования для работы
 * Основной интерпретатор — Python 3.10.
@@ -89,7 +89,7 @@
 
         pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
 ## Выводы
 В процессе выполнения кейса первоначальные данные были:  
@@ -98,5 +98,5 @@
 * Проведены дополнительные тесты для лучшего понимания представленных данных;
 * Реализована визуализация дополнительных результатов для выявления взаимосвязей между признаками.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_4/README.md#Оглавление)
 
