@@ -6,7 +6,7 @@
 [1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Описание-проекта)   
 [2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Какой-кейс-решаем)   
 [3. Краткая информация о данных](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Краткая-информация-о-данных)   
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Этапы_работы_над_проектом)   
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Этапы-работы-над-проектом)   
 [5. Результат](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Результат)   
 [6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Требования-для-работы)   
 [7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Выводы)   
