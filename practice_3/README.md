@@ -31,6 +31,7 @@
 
 ### Метрика качества: ###
 * Результаты оцениваются согласно требованиям, указанным к проекту:   
+
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
