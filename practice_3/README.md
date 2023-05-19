@@ -77,7 +77,7 @@
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
 
 ## Результат
-* Ноутбук с решением: [practice_3](https://github.com/costaM705/sf_data_science/blob/main/practice_3/data_visualization.ipynb).      
+* Ноутбук с решением: [practice_3](https://github.com/costaM705/sf_data_science/blob/main/practice_3/practice_3.ipynb).      
 * Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/practice_3/requirements.txt).
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
@@ -96,7 +96,7 @@
 * Внимательно изучены исходные данные и проанализированы;
 * Проведена подготовка данных к использованию: объединение и обработка пропусков;
 * Проведены дополнительные тесты для лучшего понимания представленных данных;
-* Реализована визуализация дополнительных результатов для выявления взаимосвязей между признаками;
+* Реализована визуализация дополнительных результатов для выявления взаимосвязей между признаками.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/practice_3/README.md#Оглавление)
 
