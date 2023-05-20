@@ -91,7 +91,7 @@
 
         pip install orca   
 
-Документация по использованию [Orca] на GitHub(https://github.com/plotly/orca).   
+Документация по использованию [Orca](https://github.com/plotly/orca) на GitHub.   
 
 Документация по использованию [Plotly.io](https://plotly.github.io/plotly.py-docs/generated/plotly.io.write_image.html).   
 
