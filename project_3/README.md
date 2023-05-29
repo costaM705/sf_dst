@@ -1,5 +1,7 @@
 # Проект 3. Рейтинг отеля по данным сайта Booking.
-EDA + Feature Engineering. Соревнование на Kaggle
+# EDA + Feature Engineering. Соревнование на Kaggle
+
+![Booking.com](../images/booking_com_logo.png)
 
 ![SkillFactory](../images/sf_logo.png)
 
