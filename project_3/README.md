@@ -1,22 +1,23 @@
-# Проект 2. Анализ вакансий из HeadHunter
+# Проект 3. Проект 3. Рейтинг отеля по данным сайта Booking.
+EDA + Feature Engineering. Соревнование на Kaggle
 
 ![SkillFactory](../images/sf_logo.png)
 
 ## Оглавление
 
-[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-проекта)   
-[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Какой-кейс-решаем)   
-[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Описание-данных)   
-[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Этапы-работы-над-проектом)   
-[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Результат)   
-[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Требования-для-работы)         
-[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Выводы)   
+[1. Описание проекта](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Описание-проекта)   
+[2. Какой кейс решаем](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Какой-кейс-решаем)   
+[3. Описание данных](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Описание-данных)   
+[4. Этапы работы над проектом](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Этапы-работы-над-проектом)   
+[5. Результат](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Результат)   
+[6. Требования для работы](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Требования-для-работы)         
+[7. Выводы](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Выводы)   
 
 ## Описание проекта
 
 Провести анализ данных и понять, что из себя представляют данные и насколько они соответствуют целям проекта для создания модели машинного обучения по подбору вакансий для IT-специалистов.
 
- :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
+ :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)      
 
 
 ## Какой кейс решаем
@@ -44,7 +45,7 @@
 Что практикуем:
 * Работу с данными и выполнение SQL-запросов.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)      
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)      
 
 ## Описание данных
 
@@ -54,7 +55,7 @@
 * Таблица INDUSTRIES является справочником вариантов сфер детельности работодателей.
 * Таблица EMPLOYERS_INDUSTRIES - дополнительная таблица, которая существует для связи между работодателями и сферами их деятельности.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)        
 
 
 ## Этапы работы над проектом
@@ -65,14 +66,14 @@
 * Очистка данных.
 * Оформление GitHub.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)        
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)        
 
 ## Результат
 
-Ноутбук с решением: [project_2](https://github.com/costaM705/sf_data_science/blob/main/project_2/project_2.ipynb).      
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_2/requirements.txt).
+Ноутбук с решением: [project_2](https://github.com/costaM705/sf_data_science/blob/main/project_3/project_3.ipynb).      
+Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/costaM705/sf_data_science/tree/main/project_3/requirements.txt).
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)         
 
 ## Требования для работы
 
@@ -82,13 +83,13 @@
 
         pip install -r requirements.txt
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)         
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)         
 
 ## Выводы
 
 В данном проекте была проведена работа по исследованию и очистке данных на примере датасета, содержащего вакансии с сайта поиска вакансий hh.ru.
 Решена часть бизнес-задачи и применена роль работника кадрового агенства.
 
-:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_2/README.md#Оглавление)   
+:arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)   
 
 
