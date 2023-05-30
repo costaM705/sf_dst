@@ -82,32 +82,32 @@
 
 Датасеты:
 
-* hotels.csv — первоначальные данные для исследования с учебной платформы Skillfactory, используется в предпроектной работе — [project_3a](https://github.com/costaM705/sf_data_science/blob/main/project_3/project_3a.ipynb).
-* hotels_train.csv — первоначальные данные для исследования с Kaggle.com.
-* hotels_test.csv — данные для валидации модели с Kaggle.com.
-* submission.csv — результат обучения модели, представленный с Kaggle.com.
-* submission_rand_forest_regr.csv — результат обучения модели scikit-learn RandomForestRegressor.
-* submission_tabular_automl.csv — результат обучения модели LightAutoML.
+* *hotels.csv* — первоначальные данные для исследования с учебной платформы Skillfactory, используется в предпроектной работе — [project_3a](https://github.com/costaM705/sf_data_science/blob/main/project_3/project_3a.ipynb).
+* *hotels_train.csv* — первоначальные данные для исследования с Kaggle.com.
+* *hotels_test.csv* — данные для валидации модели с Kaggle.com.
+* *submission.csv* — результат обучения модели, представленный с Kaggle.com.
+* *submission_rfr.csv* — результат обучения модели scikit-learn RandomForestRegressor.
+* *submission_laml.csv* — результат обучения модели LightAutoML.
 
-Первоначальная версия датасета hotels_train.csv содержит 17 полей со следующей информацией:
+Первоначальная версия датасета **hotels_train.csv** содержит 17 полей со следующей информацией:
 
-* hotel_address — адрес отеля.
-* review_date — дата, когда рецензент разместил соответствующий отзыв.
-* average_score — средний балл отеля, рассчитанный на основе последнего комментария за последний год.
-* hotel_name — название отеля.
-* reviewer_nationality — страна рецензента.
-* negative_review — отрицательный отзыв, который рецензент дал отелю.
-* review_total_negative_word_counts — общее количество слов в отрицательном отзыв.
-* positive_review — положительный отзыв, который рецензент дал отелю.
-* review_total_positive_word_counts — общее количество слов в положительном отзыве.
-* reviewer_score — оценка, которую рецензент поставил отелю на основе своего опыта.
-* total_number_of_reviews_reviewer_has_given — количество отзывов, которые рецензенты дали в прошлом.
-* total_number_of_reviews — общее количество действительных отзывов об отеле.
-* tags — теги, которые рецензент дал отелю.
-* days_since_review — количество дней между датой проверки и датой очистки.
-* additional_number_of_scoring — есть также некоторые гости, которые просто поставили оценку сервису, но не оставили отзыв. Это число указывает, сколько там действительных оценок без проверки.
-* lat — географическая широта отеля.
-* lng — географическая долгота отеля.
+* *hotel_address* — адрес отеля.
+* *review_date* — дата, когда рецензент разместил соответствующий отзыв.
+* *average_score* — средний балл отеля, рассчитанный на основе последнего комментария за последний год.
+* *hotel_name* — название отеля.
+* *reviewer_nationality* — страна рецензента.
+* *negative_review* — отрицательный отзыв, который рецензент дал отелю.
+* *review_total_negative_word_counts* — общее количество слов в отрицательном отзыв.
+* *positive_review* — положительный отзыв, который рецензент дал отелю.
+* *review_total_positive_word_counts* — общее количество слов в положительном отзыве.
+* *reviewer_score* — оценка, которую рецензент поставил отелю на основе своего опыта.
+* *total_number_of_reviews_reviewer_has_given* — количество отзывов, которые рецензенты дали в прошлом.
+* *total_number_of_reviews* — общее количество действительных отзывов об отеле.
+* *tags* — теги, которые рецензент дал отелю.
+* *days_since_review* — количество дней между датой проверки и датой очистки.
+* *additional_number_of_scoring* — есть также некоторые гости, которые просто поставили оценку сервису, но не оставили отзыв. Это число указывает, сколько там действительных оценок без проверки.
+* *lat* — географическая широта отеля.
+* *lng* — географическая долгота отеля.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)        
 
