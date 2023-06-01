@@ -181,7 +181,7 @@ LightAutoML — XX.XXXXXXXX (на Kaggle — XX.XXXXXXXX);
 RandomForestRegressor — XX.XXXXXXXX (на Kaggle — XX.XXXXXXXX).
 Несмотря на оценки вычисленные в ноутбуке, в лидерборде показывает общую оценку - XX.XXXXXXXX.
 
-Это является Хорошим  результатом — XX-е место в лидерборде по состоянию на 31.05.2023 г.
+Это является Хорошим  результатом — XX-е место в лидерборде по состоянию на 01.06.2023 г.
 
 :arrow_up:[к оглавлению](https://github.com/costaM705/sf_data_science/tree/main/project_3/README.md#Оглавление)   
 
