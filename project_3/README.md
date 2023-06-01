@@ -177,8 +177,9 @@
 
 В результате был достигнут показатель МАРЕ:
 
-LightAutoML — 11.74853823 (на Kaggle — XX.XXXXXXXX);
-RandomForestRegressor — 12.04987098 (на Kaggle — XX.XXXXXXXX).
+* LightAutoML — 11.74853823 (на Kaggle — XX.XXXXXXXX)   
+* RandomForestRegressor — 12.04987098 (на Kaggle — XX.XXXXXXXX)   
+
 Несмотря на оценки вычисленные в ноутбуке, в лидерборде показывает общую оценку - XX.XXXXXXXX.
 
 Hезультат — XX-е место в лидерборде по состоянию на 01.06.2023 г.
